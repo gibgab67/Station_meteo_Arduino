@@ -26,7 +26,7 @@
  * Import Girouette : OK
  * Relevé des données : OK
  * Envoi info MQTT : OK
- * Nouveau capteur hygro + temp : 
+ * Nouveau capteur hygro + temp : OK
  */
  
 //Section importations

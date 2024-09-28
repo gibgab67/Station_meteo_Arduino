@@ -16,7 +16,7 @@ Ne voyez donc pas en ce travail une démonstration de mes compétences de gestio
 ## Materiel utilisé
 Point de vue électronique, j'ai utilisé :
 - Carte Arduino UNO
-- Shield Ethernet compatible PoE DFR0850 (gère la connection et l'alimentation en PoE)
+- Shield Ethernet compatible PoE DFR0850 (gère la connection Ethernet et l'alimentation en PoE)
 - Shield météo DEV-13956 (interface les capteurs météo sur la carte Arduino)
 - Un Jeu de capteurs météo (https://www.gotronic.fr/art-jeu-de-capteurs-meteo-33052.htm)
 - Capteur de T° et d'humidité AM2301B

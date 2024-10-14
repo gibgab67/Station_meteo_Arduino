@@ -14,7 +14,7 @@
  * Programme final projet Station météo
  * 12/02/2023 20h15
  * ***Let's start !***
- * Version 5 -> remplacement du capteur hygro et temp + ajustement finaux + correction commentaires
+ * Version 6 -> corection d'un bug d'initialisation dût à une commande manquante
  */
 /*
  * A FAIRE :
@@ -26,7 +26,7 @@
  * Import Girouette : OK
  * Relevé des données : OK
  * Envoi info MQTT : OK
- * Nouveau capteur hygro + temp : 
+ * Nouveau capteur hygro + temp : OK
  */
  
 //Section importations
